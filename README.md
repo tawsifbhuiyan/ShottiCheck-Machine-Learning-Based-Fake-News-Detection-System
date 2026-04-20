@@ -1,4 +1,4 @@
-# 📰 ShottiCheck: Fake News Detection using NLP and Machine Learning
+# 📰 ShottiCheck: Machine Learning Based Fake News Detection System
 
 ShottiCheck is a machine learning-based fake news detection system that uses Natural Language Processing (NLP) techniques to classify news articles as **real** or **fake**.
 The system is built using TF-IDF vectorization and Logistic Regression, and includes an interactive web interface powered by Gradio.
